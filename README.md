@@ -1,3 +1,3 @@
-# increased_resolution
+# increase_resolution
 
 In dev...
